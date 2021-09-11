@@ -1,0 +1,11 @@
+//CONDICIONALES
+//a partir del resultado debe de hacer algo
+// lo que hacemos a traves de las condiciones o condicionales como lo son el if o switch
+// es que le decimos a la aplicacion como queremos que se comporte, 
+
+//BUCLE
+segun la condicion se va a repetir y repetir hasta que nosotros queramos 
+
+//funciones
+// las podemos utilizar cuantas veces queramos solo llamando la funcion por su nombre y ejecutamos lo que este adentro
+// parametro podemos decirl

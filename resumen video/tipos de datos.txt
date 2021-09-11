@@ -1,0 +1,40 @@
+tipos de datos
+
+"Hello world" // string
+'Hello world' //string 
+
+//number
+1000000 
+-2.3
+
+//boolean
+true
+false
+
+//array es una lista cada ausuario es un string, entonces tengo una lista de string
+['joe', 'ryan', 'martha']
+[1,2,3]// lista de number
+[true, false, true, false] // lista de boolean
+
+//object, tipos de datos distintos pero todos pertenecen a un solo usuario  un objeto esta conformado por pares, clave (propiedad) y valor
+'ryan'
+70.4
+14
+true
+{
+    "username": 'ryan',
+    "score": 70.4,
+    "hours": 14,
+    "preffesional": true
+    "friends":['','']
+}
+
+//otro usuario
+{
+    "username": 'joe',
+    "score": 0.4,
+    "hours": 1\,
+    "preffesional": false
+    "friends":['','']
+}
+*/

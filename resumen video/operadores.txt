@@ -1,0 +1,6 @@
+// los operadores son los que nos ayudan a hacer una operacion matematica
+//de otra forma el signo +, -, /, *, son operadores 
+// con los operadores logramos procesar los datos 
+//cunaod unimos dos datos por ejemplo ujn nombre + un apellido se llama concatenacion porque unimos 2 cadenas 2 string
+// podemos utilizar != que este quiere decir diferencia 
+// el doble signo igual ==  si esto es igual a esto y depende de eso me da un tipo de dato boolean osea verdadero o falso 

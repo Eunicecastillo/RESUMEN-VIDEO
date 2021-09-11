@@ -1,0 +1,24 @@
+variables
+
+//variables, almacenamos en memoria, no pueden empezar con numeros
+//puedes crear variables utilizando la palabra clave var y la palabra clave let
+//se llama variables porque le damos un nombre que puede cambiar, que puede variar 
+
+var nameuser ="john" 
+//estamos creando una variable cuyo nombre sera nameuser y su valor john
+//le colocamos var porque java tiene reglas y esta es una de ellas 
+
+nameuser='pepe'; 
+//cambiamos el valor de la variable nameuser y ahora al mostrar en consola sera pepe
+
+//CONS, es una constante y no se pude cambiar, se mantiene con el mismo valor, la constante se mantien con un valor unico
+const PI=3.1415; // aqui declaramos una constante que se llama PI y su valor es 3.1415 y no podra cambiar
+
+//algo sumamente es escribir el nombre de la variable segun lo que almacenaremos en ello
+// ejemplo yo quiero almacenar un numero de nit, entonces yo le voy a llamr nit y asi sabre que es lo que tengo en esa variable
+
+//camelcase es el que se conoce como la joroba de un camello por cada inicio de palabra 
+ nombreDePersona
+ // otra forma de escribir variables es user_name 
+ 
+ 
